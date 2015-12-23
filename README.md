@@ -1,2 +1,2 @@
 # cauvong
-Cầu Vồng mean Rainbow in English
+Cầu Vồng mean Rainbow in Vietnamese
